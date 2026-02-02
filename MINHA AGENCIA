@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>AVI - O Agente de Viagens Independente</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(90deg, #0a8f3c, #0fcf6a);
+      color: white;
+      padding: 50px 20px;
+      text-align: center;
+    }
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 30px 20px;
+      background: white;
+    }
+    h2 {
+      color: #0a8f3c;
+    }
+    ul {
+      line-height: 1.8;
+    }
+    .cta {
+      text-align: center;
+      margin: 40px 0;
+    }
+    .cta a {
+      background: #25D366;
+      color: white;
+      padding: 15px 30px;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 30px;
+      font-weight: bold;
+    }
+    footer {
+      background: #222;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>AVI</h1>
+  <p><strong>O Agente de Viagens Independente</strong></p>
+  <p>Nuporanga – SP</p>
+</header>
+
+<section>
+  <h2>Sobre a AVI</h2>
+  <p>
+    A AVI – O Agente de Viagens Independente atua com atendimento personalizado,
+    oferecendo soluções completas para sua viagem, com praticidade, segurança
+    e o melhor custo-benefício.
+  </p>
+
+  <h2>Serviços</h2>
+  <ul>
+    <li>✈️ Passagens aéreas nacionais e internacionais</li>
+    <li>🧳 Montagem de pacotes personalizados</li>
+    <li>🚌 Passagens de ônibus</li>
+    <li>🏨 Hotéis</li>
+    <li>🚢 Cruzeiros</li>
+    <li>🛡️ Seguro-viagem</li>
+    <li>🌎 Roteiros sob medida</li>
+    <li>📄 Orientação completa de viagem</li>
+    <li>etc.</li>
+  </ul>
+
+  <div class="cta">
+    <a href="https://wa.me/5516997917503" target="_blank">
+      Fale comigo no WhatsApp
+    </a>
+  </div>
+</section>
+
+<footer>
+  <p>AVI – O Agente de Viagens Independente</p>
+  <p>Atendimento exclusivo via WhatsApp</p>
+</footer>
+
+</body>
+</html>
